@@ -4,6 +4,8 @@ A simple weather app that allows you to get current weather information, based o
 
 [Live Demo](https://reactjs-simple-weather-app.netlify.app/)
 
+![image](https://github.com/davidfaure/weather-app/blob/master/weather-app.png)
+
 ### `Installation`
 
 ```
