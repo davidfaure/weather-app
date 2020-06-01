@@ -15,3 +15,8 @@ npm install
 npm start
 ```
 
+### `About`
+
+David Faure - [https://david-faure.fr/]
+https://github.com/davidfaure/
+
