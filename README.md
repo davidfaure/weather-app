@@ -17,6 +17,6 @@ npm start
 
 ### `About`
 
-David Faure - [https://david-faure.fr/]
+David Faure - [Portfolio](https://david-faure.fr/) </br>
 https://github.com/davidfaure/
 
