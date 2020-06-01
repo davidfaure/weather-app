@@ -4,7 +4,6 @@ import dateformat from 'dateformat';
 import styles from './WeatherDetail.module.css';
 
 const WeatherDetail = (props) => {
-    console.log(props);
     const today = new Date();
     return(
         <div className={styles.WeatherDetailsWrapper}>
